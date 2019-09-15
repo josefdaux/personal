@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Josef Roberts",
+    "name": "Josef Roberts - Personal Web",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -36,7 +36,9 @@
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "true",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-147976169-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-147976169-1');\r\n</script>",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
