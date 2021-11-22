@@ -2762,7 +2762,7 @@ a {
 }
 .cid-sH8UXsUxbG {
   padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-bottom: 1rem;
   background-color: #1c1f32;
 }
 .cid-sH8UXsUxbG .video-wrapper iframe {
@@ -2777,6 +2777,9 @@ a {
   color: #4479d9;
 }
 .cid-sH8UXsUxbG .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-sH8UXsUxbG .mbr-text {
   color: #ffffff;
 }
 .cid-sC72UObybY {
